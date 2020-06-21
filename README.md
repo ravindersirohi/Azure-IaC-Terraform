@@ -5,6 +5,8 @@ Infrastructure as Code (IaC) using Terraform with Azure(azurerm provider v2.15)
 1) Resource Group
 2) Virtual Network
 3) Service Principal
+4) App Plan
+5) Web App
 
 # Terraform.tfvars variables
 Azure service principal file (terraform.tfvars) has been ignored which has below information.
